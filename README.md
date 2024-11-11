@@ -9,6 +9,6 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: Tran Hai Dang 
+* Student Name: Trần Hải Đăng
 * Student ID: 23BI14085
 
